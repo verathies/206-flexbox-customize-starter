@@ -115,7 +115,7 @@ body {
   width: 100%;
 }
 
-#content {
+#content, #content2 {
   display: flex; 
   justify-content: center; 
   align-items: center; 
